@@ -1,0 +1,10 @@
+[
+  "en": {
+    "name": "English",
+    "url": "http://25.51.1.195:8014/en/v1.2/"
+  },
+  "jp": {
+    "name": "Japanese",
+    "url": "http://25.51.1.195:8014/v1.2/jp/"
+  }
+]
