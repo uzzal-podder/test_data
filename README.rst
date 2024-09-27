@@ -6,8 +6,8 @@ test_data
    :maxdepth: 2
    :caption: Contents:
 
-   data/intro
-   data/methods
+   intro
+   methods
 
-.. include:: data/intro.rst
-.. include:: data/methods.rst
+.. include:: intro.rst
+.. include:: methods.rst
